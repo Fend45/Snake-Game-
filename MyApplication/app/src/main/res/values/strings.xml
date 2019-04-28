@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Test Snake</string>
+
+    <!-- main_menu.xml Strings -->
+    <string name="mainStart">Start</string>
+    <string name="mainSetting">Setting</string>
+
+    <!-- game_select.xml Strings -->
+    <string name="mode">Gyro Mode</string>
+
+    <!-- game_select.xml Strings -->
+    <string name="select_one">Single Player</string>
+    <string name="select_two">Multi Player</string>
+    <string name="select_back">Back to Main Menu</string>
+
+    <!-- results.xml Strings -->
+    <string name="toMain">Back to Start Screen</string>
+    <string name="restart">Restart Game</string>
+
+
+</resources>
